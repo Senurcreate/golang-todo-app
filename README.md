@@ -152,7 +152,7 @@ Reward myself with a donut
 
 # Tutorial Followed
 
-This project was built while following the Go tutorial by freeCodeCamp and Nana Janashia:
+This project was built while following the Go tutorial by TechWorld with Nana:
 
 https://youtu.be/XCZWyN9ZbEQ
 
